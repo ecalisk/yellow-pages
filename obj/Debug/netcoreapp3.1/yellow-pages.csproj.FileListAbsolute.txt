@@ -1,0 +1,17 @@
+C:\Users\user\source\repos\yellow-pages\bin\Debug\netcoreapp3.1\yellow-pages.exe
+C:\Users\user\source\repos\yellow-pages\bin\Debug\netcoreapp3.1\yellow-pages.deps.json
+C:\Users\user\source\repos\yellow-pages\bin\Debug\netcoreapp3.1\yellow-pages.runtimeconfig.json
+C:\Users\user\source\repos\yellow-pages\bin\Debug\netcoreapp3.1\yellow-pages.runtimeconfig.dev.json
+C:\Users\user\source\repos\yellow-pages\bin\Debug\netcoreapp3.1\yellow-pages.dll
+C:\Users\user\source\repos\yellow-pages\bin\Debug\netcoreapp3.1\yellow-pages.pdb
+C:\Users\user\source\repos\yellow-pages\obj\Debug\netcoreapp3.1\yellow_pages.addContacts.resources
+C:\Users\user\source\repos\yellow-pages\obj\Debug\netcoreapp3.1\yellow_pages.Form1.resources
+C:\Users\user\source\repos\yellow-pages\obj\Debug\netcoreapp3.1\yellow_pages.Properties.Resources.resources
+C:\Users\user\source\repos\yellow-pages\obj\Debug\netcoreapp3.1\yellow-pages.csproj.GenerateResource.cache
+C:\Users\user\source\repos\yellow-pages\obj\Debug\netcoreapp3.1\yellow-pages.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\yellow-pages\obj\Debug\netcoreapp3.1\yellow-pages.AssemblyInfo.cs
+C:\Users\user\source\repos\yellow-pages\obj\Debug\netcoreapp3.1\yellow-pages.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\yellow-pages\obj\Debug\netcoreapp3.1\yellow-pages.dll
+C:\Users\user\source\repos\yellow-pages\obj\Debug\netcoreapp3.1\yellow-pages.pdb
+C:\Users\user\source\repos\yellow-pages\obj\Debug\netcoreapp3.1\yellow-pages.genruntimeconfig.cache
+C:\Users\user\source\repos\yellow-pages\obj\Debug\netcoreapp3.1\yellow_pages.viewContacts.resources

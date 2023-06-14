@@ -1,0 +1,68 @@
+All operations including adding, deleting and viewing records can be done using the application. Should you want to edit the database file on yourself you may end up obtaining a bad record or other unexpected behaviour. Should you want to edit the file consider following guidelines:
+
+1. Enter records to the following template:
+Name: 
+Middle Name: 
+Last Name: 
+Phone Number: 
+Address: 
+Gender: 
+Photo: \img\no-user-image.png
+++++++++++++++++++++++++++++++++++++++++++++++++++
+
+2. All fields except middle name field and photo field are mandotary.
+3. If you decide to use a photo replace the no-user-image.png fiel directory
+4. If you decide to leave middle name field empty, you must put a single white space there.
+5. After each title (eg. "Name: ") there is a whitespace in the template, do not delete this whitespace. (eg. "Name:Marek" WRONG vs "Name: Marek" CORRECT)
+6. Do not leave an empty line at the end of document.
+7. There are no guidelines if you add/delete using the application.
+
+A issue-free set of records look like this: (after this line is line 1, copy after this line)
+Name: Alina 
+Middle Name: Luiza
+Last Name: Lorbiecka
+Phone Number: 578754154
+Address: Stadionowa 1, 20-405 Lublin
+Gender: Female
+Photo: img\alina.jpg
+++++++++++++++++++++++++++++++++++++++++++++++++++
+Name: Krystian
+Middle Name: Kondrad
+Last Name: Danek
+Phone Number: 574485621
+Address: Targ Rybny 1, 80-838 Gdańsk
+Gender: Unspecified
+Photo: img\krystian.jpg
+++++++++++++++++++++++++++++++++++++++++++++++++++
+Name: Piotr
+Middle Name:  
+Last Name: Kocurek
+Phone Number: 775653145
+Address: Marszałkowska 8, 02-850 Warszawa
+Gender: Male
+Photo: img\piotr.jpg
+++++++++++++++++++++++++++++++++++++++++++++++++++
+Name: Oliwia 
+Middle Name:  
+Last Name: Polka
+Phone Number: 751256846
+Address: Turystyczna 10a, 23-300 Janów Lubelski
+Gender: Female
+Photo: img\oliwia.jpg
+++++++++++++++++++++++++++++++++++++++++++++++++++
+Name: Sebastian
+Middle Name: Patryk
+Last Name: Gibas
+Phone Number: 567412596
+Address: Lwowska 32, 40-389 Katowice
+Gender: Male
+Photo: img\sebastian.jpg
+++++++++++++++++++++++++++++++++++++++++++++++++++
+Name: Anna
+Middle Name:  
+Last Name: Wróbel-Janos
+Phone Number: 548256314
+Address: Chopina 42, 37-450 Stalowa Wola
+Gender: Unspecified
+Photo: img\anna.jpg
+++++++++++++++++++++++++++++++++++++++++++++++++++
